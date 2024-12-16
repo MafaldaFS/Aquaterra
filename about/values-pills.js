@@ -58,7 +58,7 @@ window.addEventListener('load', () => {
 
 			tl.from(block.children, {
 				y: direction.y,
-                x: direction.x,
+				x: direction.x,
 				opacity: 0,
 				stagger: 0.125,
 			});
